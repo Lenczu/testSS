@@ -8,7 +8,7 @@ public class Controller {
 
     @GetMapping("/")
     public String homeSceen(){
-        return "Yo";
+        return "Yos";
     }
 
 }
